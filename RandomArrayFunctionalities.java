@@ -39,7 +39,7 @@ public class RandomArrayFunctionalities {
      * The stringRepeat method takes in a string and a number from the 
      * user and outputs a substring based upon the string and repeated
      * based on the number entered from the user
-     * @param str, holds the string that will be printed
+     * @param str, holds the string that will be printed 
      * @param num, hold the number that represents the number of times
      * @return, will return a the substring based on the string and number value
      */
