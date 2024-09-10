@@ -20,7 +20,7 @@ public class TestingRandomArrayFunctionalities {
         int sizeOne = scanner.nextInt();
         int[] arrayOne = new int[sizeOne];
         
-        System.out.println("Please enter the integer values/elements for the first array:  ");
+        System.out.println("Please enter the integer values/elements for the first array: ");
         for (int i = 0; i < sizeOne; i++) {
         	arrayOne[i] = scanner.nextInt();
         }
